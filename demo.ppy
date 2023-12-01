@@ -1,0 +1,4 @@
+echo "enter the value of n1 "
+echo "enter the value of n2 "
+read n1
+read n2
